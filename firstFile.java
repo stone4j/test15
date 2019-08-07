@@ -1,3 +1,3 @@
 abc
 def
-int a = 10;
+int a = 7;
